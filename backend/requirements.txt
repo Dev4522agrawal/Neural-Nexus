@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+graphiti-core[google-genai]>=0.20
+litellm>=1.60
+sqlalchemy[asyncio]>=2.0
+asyncpg>=0.30
+pydantic-settings>=2.6
+python-dotenv>=1.0
+pypdf>=5.0
+python-multipart>=0.0.12
